@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Anastasia Kozyreva is a philosopher & cognitive scientist with research focus on decision making in digital environments, bounded rationality, and boosting cognitive resilience to disinformation and online manipulation.
+Anastasia Kozyreva is a philosopher & cognitive scientist with research focus on decision making in digital environments, bounded rationality, and boosting cognitive competencies online.
