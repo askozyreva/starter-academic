@@ -32,10 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-20T14:57:46.958303Z'
+publishDate: '2020-11-20T15:06:59.758621Z'
 publication_types:
 - '4'
 abstract: ''
 publication: '*Max Planck Institute for Human Development*'
 doi: 10.17617/2.3188061
+url_pdf: https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3188061
 ---

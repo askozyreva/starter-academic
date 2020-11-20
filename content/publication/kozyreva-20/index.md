@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-20T14:57:46.619757Z'
+publishDate: '2020-11-20T15:06:59.278718Z'
 publication_types:
 - '2'
 abstract: 'The Internet has evolved into a ubiquitous and indispensable digital environment
@@ -63,4 +63,5 @@ abstract: 'The Internet has evolved into a ubiquitous and indispensable digital 
   techniques, and the spread of false information.'
 publication: '*Psychological Science in the Public Interest*'
 doi: https://doi.org/10.1177/152910062094670
+url_pdf: https://psyarxiv.com/ky4x8/
 ---

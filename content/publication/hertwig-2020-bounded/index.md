@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-20T14:57:48.521784Z'
+publishDate: '2020-11-20T15:07:01.671376Z'
 publication_types:
 - '6'
 abstract: ''

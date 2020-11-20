@@ -6,8 +6,18 @@ title: 'Technology and Democracy: Understanding the influence of online technolo
 subtitle: ''
 summary: ''
 authors:
-- S., Smillie, L., Garcia, D., Hertwig, R., Weatherall, J., Egidy, S., Robertson,
-  R.E., O’connor, C., Kozyreva, A., Lorenz-Spreen, P., Blaschke, Y., Leiser, M. Lewandowsky
+- Stephan Lewandowsky
+- Laura Smillie
+- David Garcia
+- Ralph Hertwig
+- Jim Weatherall
+- Stefanie Egidy
+- Ronald E. Robertson
+- Cailin O’connor
+- Anastasia Kozyreva
+- Philipp Lorenz-Spreen
+- Yannic Blaschke
+- Mark Leiser
 tags: []
 categories: []
 date: '2020-01-01'
@@ -29,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-20T14:57:49.394822Z'
+publishDate: '2020-11-20T15:07:02.889008Z'
 publication_types:
 - '4'
 abstract: 'Drawing from many disciplines, the report adopts a behavioural psychology
