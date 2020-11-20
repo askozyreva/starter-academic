@@ -21,13 +21,13 @@ organizations:
 bio: 
 
 interests:
-- Risk and Uncertainty
-- Bounded Rationality
-- Digital environments
+- Decision making in digital environments
 - Behavioral public policy
 - Boosting digital competences
-- AI ethics
+- Cognitive tools against false information and online manipulation
 - Data privacy
+- Risk and Uncertainty
+- Bounded Rationality
 
 education:
   courses:
