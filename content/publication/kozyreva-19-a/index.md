@@ -1,20 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Artificial intelligence in online environments: Representative survey of public
-  attitudes in Germany'
+title: 'Interpreting Uncertainty: A Brief History of Not Knowing'
 subtitle: ''
 summary: ''
 authors:
 - Anastasia Kozyreva
-- Stefan Herzog
-- Philipp Lorenz-Spreen
+- Timothy J. Pleskac
+- Thorsten Pachur
 - Ralph Hertwig
-- Stephan Lewandowsky
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2020-11-20T15:41:17+01:00
+date: '2019-01-01'
+lastmod: 2020-11-20T15:57:45+01:00
 featured: false
 draft: false
 
@@ -32,10 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-20T14:57:46.958303Z'
+publishDate: '2020-11-20T14:57:45.685156Z'
 publication_types:
-- '4'
+- '6'
 abstract: ''
-publication: '*Max Planck Institute for Human Development*'
-doi: 10.17617/2.3188061
+publication: '*Taming uncertainty*'
 ---
