@@ -1,10 +1,27 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Journal_articles"
-authors: []
-date: 2020-10-06T21:08:12+02:00
-doi: ""
+# title: "Journal_articles"
+# authors: []
+# date: 2020-10-06T21:08:12+02:00
+# doi: ""
+
+
+# Publications
+
+
+library(RefManageR)
+pubs <- bibliography_entries("kozyreva.bib")
+
+
+
+## Journal articles
+
+
+pubs %>%
+  filter(bibtype == "Article") %>%
+  arrange(year, surnames) 
+
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-10-06T21:08:12+02:00
