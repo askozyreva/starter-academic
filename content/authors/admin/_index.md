@@ -25,7 +25,6 @@ interests:
 - Behavioral public policy
 - Boosting digital competences
 - Cognitive tools against false information and online manipulation
-- Data privacy
 - Risk and Uncertainty
 - Bounded Rationality
 
